@@ -256,6 +256,6 @@ app.use( errorHelper.clientErrorHandler);
 app.use( errorHelper.errorHandler);
 
 //Create server to listen on port 5000
-var server = app.listen( 8080, function () {
+var server = app.listen( 80, beingfluid.github.io, function () {
     console.log('Node server is running on http://localhost:8080..');
 } );
