@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "REST APIs for Bethanys Pie Shop",
   "main": "index.js",
+  "homepage": "beingfluid.github.io/bethanyspiesapi",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
